@@ -2,4 +2,4 @@
 
 Foi utilizado apenas react puro e css.
 
-Acesse o app: calculadora-react-css.netlify.app
+Acesse o app: https://calculadora-react-css.netlify.app/
